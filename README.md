@@ -1,36 +1,27 @@
-## Hi there 
-
+##### 👋 Hello, World! I'm Gaurav Singh, a Full Stack Developer
 <!--
 **gauravsingh7x/gauravsingh7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ```json
 {
-  "welcome_msg": "Hello, World! Welcome to my digital space.",
-  "status": "Active & Open for Opportunities",
   "name": "Gaurav Singh",
   "role": "Full Stack Developer",
+  "tagline": "Crafting Code, Creating Solutions",
+  "status": "Building, Learning & Open to Opportunities",
   "location": "Lucknow, India 🇮🇳",
-  "qualification": {
+
+  "education": {
     "diploma": "Diploma in Computer Science & Engineering",
     "btech": "Bachelor of Technology in Computer Science & Engineering"
   },
+
   "currently_learning": [
-    "Backend Architecture",
+    "Backend Development",
     "System Design",
     "DevOps"
   ],
+
   "open_to": [
     "Full Stack Developer",
     "Frontend Developer",
@@ -44,7 +35,7 @@ Here are some ideas to get you started:
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsingh7x) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravsingh7x@outlook.in) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://gauravsingh7x.com) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@gauravsingh7x) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/gauravsingh7x) | [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gauravsingh7x) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gauravsingh7x) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/gauravsingh7x) | ![](https://komarev.com/ghpvc/?username=gauravsingh7x&label=Profile+Views&color=0e75b6&style=flat) |
 
 
-# 🚀 Tech Stack  <img src="https://media.giphy.com/media/o7mLSkGYCu9Pi/giphy.gif" width="25"/>
+## 🚀 Tech Stack  <img src="https://media.giphy.com/media/o7mLSkGYCu9Pi/giphy.gif" width="25"/>
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
@@ -91,11 +82,18 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 -->
 
-
 <br>
-
 <h2 align="center">The Snake ate my work as a Snack. 🐍</h2>
 <p><img src="https://github.com/gauravsingh7x/gauravsingh7x/blob/output/github-snake-dark.svg" /></p>
+
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=gauravsingh7x&theme=tokyonight)
+-->
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=gauravsingh7x&custom_title=Contribution%20Graph&theme=github-compact)
+
+
+
 
 <!-- ![snake gif](https://github.com/gauravsingh7x/gauravsingh7x/blob/output/github-contribution-grid-snake.gif) -->
 
