@@ -34,11 +34,11 @@
 
 | 🌟 Let's Connect | 🧠 What I'm Learning & Writing | 🌍 Find Me Around the Web | 👀 Visitors |
 |-------------------------|-------------------------------|--------------------------|-------------------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsinghlive) [![Email](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:contact@gauravsingh.live) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://v1.gauravsingh.live/) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@gauravsinghlive) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/gauravsinghlive) | [![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/gauravsinghliv) [![Instagram](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gauravsingh.live) [![Facebook](https://img.shields.io/badge/-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/gauravsinghliv)  [![Telegram](https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gauravsinghlive) | [Coming] |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravasync) [![Email](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:contact@gauravsingh.live) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://gauravsingh.live/) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@gauravasync) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/gauravasync) | [![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/gauravasync) [![Instagram](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gauravasync) [![Facebook](https://img.shields.io/badge/-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/gauravasync)  [![Telegram](https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gauravasync) | [Coming] |
 
 
 <!--
-![](https://komarev.com/ghpvc/?username=gauravsingh&label=You're+Here&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=gauravasync&label=You're+Here&color=0e75b6&style=flat)
 
 
 <h2>⚡ Tech Stack & Engineering Arsenal</h2>
