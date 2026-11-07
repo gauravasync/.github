@@ -191,7 +191,7 @@ GitHub Analytics & Open Source Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsinghlive&theme=tokyo-night&bg_color=0D1117&hide_border=true&custom_title=Activity%20Graph)
 -->
  <p>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsinghlive&theme=tokyonight&hide_border=true&background=0D1117&dates=0D1117" alt="GitHub Streak" width="97%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravasync&theme=tokyonight&hide_border=true&background=0D1117&dates=0D1117" alt="GitHub Streak" width="97%" />
 <!--  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh7x&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
 -->
@@ -199,11 +199,7 @@ GitHub Analytics & Open Source Activity
 
  <p>
    <h2 align="center">The Snake ate my work as a Snack.🐍</h2>
-   <img src="https://raw.githubusercontent.com/gauravsinghlive/.github/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
- </p>
-
- <p align="center">
-   <img src="../github-contribution-animation.svg" alt="GitHub Graph" width="850"/>
+   <img src="https://raw.githubusercontent.com/gauravasync/.github/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
  </p>
 
 </div>
